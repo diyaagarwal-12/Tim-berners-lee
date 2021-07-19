@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    text-align: center;
+    padding-top: 800px;
+}
+
+.profile {
+    border-radius: 100px;
+    margin-bottom: 50px;
+    width: 175px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right:0,
+}
+
+#welcome {
+    height: :800px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#ebd234, #3461eb);
+    opacity: 0.83;
+    display: table;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    z-index: 9;
+}
+h1{
+ line-height:1.2;
+    font-weight: 300;
+    font-family: cursive; 
+    font-size: 40px;
+}
+h1{
+ line-height:1.2;
+    font-weight: 300;
+    font-family:monospace;; 
+    font-size: 40px;
+}
+h2{
+ line-height:1.2;
+    font-weight: 200;
+    font-family:monospace; 
+    font-size: 30px;
+}
+#name{
+ line-height:1.2;
+    font-weight: 100;
+    font-family:'Cinzel'; 
+    font-size: 30px;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+h3{
+    font-size:50px;
+}
+.line{
+    width: 450px;
+    height: 6px;
+    margin:8px auto;
+    background-color: black;
+}
+p{
+    max-width: 450px;
+    margin:25px auto;
+    font-size:17px;
+        line-height: 1.3;
+        
+}
+#bio{
+    text-align: center;
+    font-size: 42px;
+    padding: 50px;
+}
+.menu{
+    z-index: 10;
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.links{
+   padding-top: 5px;
+   padding-left: 9px;
+   padding-right: 9px;
+    padding-bottom: 5px;
+    float: left;
+    font-size: 20px;
+    color: black;
+    font-family: fantasy;
+    
+
+}
+.links:hover{
+    background-color: #fccadc;
+}
+.article{
+    font-size: 25px;
+}
+.article:hover{
+    color:fuchsia;
+}
+ul{
+    background-color: white;
+    max-height: 
+}
+a{
+    text-decoration: none;
+}
+html{
+  scroll-behavior: smooth;
+}
